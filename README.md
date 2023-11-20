@@ -1,4 +1,4 @@
-# Projeto de JS do Curso em Vídeo 🎥
+# Curso de JavaScript do Curso em Vídeo 🎥
 
 ## Descrição 📝
 
