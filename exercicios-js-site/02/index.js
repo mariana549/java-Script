@@ -27,4 +27,4 @@ function tababuada(numero, operacao){
    }     
 }
 
-tababuada(50, "=")
+tababuada(25, "*")
